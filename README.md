@@ -77,5 +77,6 @@ To setup this project in Jenkins, use the following configuration:
 [Jasmine]: http://jasmine.github.io/2.0/introduction.html
 [Protractor]: https://angular.github.io/protractor/
 =======
-# demo
-my first project
+# notes
+this my demo jhipster project
+
